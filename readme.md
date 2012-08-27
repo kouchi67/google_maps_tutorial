@@ -1,2 +1,2 @@
-*Google Maps API
+Google Maps API
 チュートリアルを試してみる。
